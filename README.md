@@ -1,0 +1,2 @@
+en esta entrega lo que tienen que hacer es vender una salchiápapa a un señor que no tiene para pagarla, entonces le aceptaran otro medio de pago, en este caso sera un aniumal de granja de su elección. ejemplo: gallina, vaca
+luego vendera una salchipapa a laguien que tiene un billete grnade y le tienen que dar vuelto por lo que le dicen para devolverle el valor en el animal que anteriormente usaron de medio de pago.
